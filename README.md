@@ -1,7 +1,7 @@
-# How to run 
+# Cara menjalankan aplikasi
 
-## Install node modules
+## Install node module
 run 'npm install'
 
-## Run learn you git 
-run 'node learnyougit.js'
+## Jalankan program latihan javascript  
+run 'node learnyoujavascript.js'
